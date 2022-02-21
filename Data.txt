@@ -1,0 +1,20 @@
+[[Response(name=Chloe, rollNumber=4283661, branch=CHE, covidPositive=false),
+Response(name=Jack, rollNumber=5672351, branch=CHE, covidPositive=false),
+Response(name=Emily, rollNumber=4736471, branch=CIV, covidPositive=false),
+Response(name=Jacob, rollNumber=3246617, branch=CSE, covidPositive=false),
+Response(name=Sophia, rollNumber=1263612, branch=CSE, covidPositive=false),
+Response(name=Harry, rollNumber=1278934, branch=ECE, covidPositive=false)],
+
+[Response(name=Hazel, rollNumber=2361718, branch=ECE, covidPositive=false),
+Response(name=Angel, rollNumber=1317382, branch=EEE, covidPositive=false),
+Response(name=Jasper, rollNumber=2366236, branch=EEE, covidPositive=false),
+Response(name=Clara, rollNumber=4328992, branch=MAT, covidPositive=false),
+Response(name=Eliana, rollNumber=9090341, branch=MAT, covidPositive=false),
+Response(name=Sarah, rollNumber=1334921, branch=MAT, covidPositive=false)],
+
+[Response(name=Kevin, rollNumber=4271786, branch=MEC, covidPositive=false),
+Response(name=Daisy, rollNumber=7364891, branch=MIN, covidPositive=false),
+Response(name=Daniel, rollNumber=8783261, branch=MIN, covidPositive=false),
+Response(name=Nora, rollNumber=4123894, branch=PHE, covidPositive=false),
+Response(name=Owen, rollNumber=4898291, branch=PHE, covidPositive=false),
+Response(name=Ryan, rollNumber=9071271, branch=PHE, covidPositive=false)]]
